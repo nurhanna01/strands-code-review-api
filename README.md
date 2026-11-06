@@ -32,7 +32,7 @@ INCEPTION_API_KEY=your-key-here
 ## Running
 
 ```bash
-uv run fastapi dev api.py
+uv run fastapi dev main.py
 ```
 
 Once it is running:
